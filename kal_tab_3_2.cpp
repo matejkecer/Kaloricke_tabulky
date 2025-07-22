@@ -474,7 +474,8 @@ void baseProgram() {
 	
 	// reordering
 	int newId = -1;
-	
+
+	// input corectness handling
 	bool goodInput = false;
 
 	while (input.compare("end") != 0) {
