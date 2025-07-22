@@ -1,0 +1,92 @@
+kuracie	106	23.1	0	1.5	#100g
+mlete_bravcove_15	182	18.8	0.2	11.9	#100g(15%tuku)
+ribeye	193	18.9	0.05	13.2	#100g
+rumpsteak	116	21.9	0.5	3.1	#100g
+bravcove_stehno	143	18.9	0	7.5	#100g
+vajce	90.6	7.43	0.56	6.52	#kus60g
+
+rozok	143	4.5	27.5	1.5	#kus
+tortilla	192	5.7	31.62	4.09	#kus62g
+vencek_cesnak	377	11	60.5	9.57	#kus110g
+spagety	363	12.8	70.9	2	#surove100g
+ryza	346	8	78	0.3	#surova100g
+
+maslo	73	0.07	0.06	8.2	#porcia10g
+olej	819	0	0	91	#100ml
+
+syr	336	25	1.1	26	#100g
+cottage_cheese	101	11	3	5	#100g
+niva	304	19	1.5	25	#100g
+mozarella	236	17	2	18	#100g
+mozarella_protein	150	18.5	1	8	#100g
+mozarella_light	165	19	2	9	#100g
+
+kecup	16.3	0.18	3.6	0.07	#lyžica15g
+cibula	25.3	0.75	5	0.05	#kus50g
+ramen	509	9.84	81.6	15.6	#balenie120g
+
+mlieko	46.1	3.2	4.9	1.5	#100ml
+corny	183	15	13.5	9	#tyčinka50g
+protein	115	22.47	1.98	1.68	#dávka30g
+zott	195	27.25	12.75	3	#balenie250ml
+mullermilch_rasp	249	26	22	6	#balenie400g
+mullermilch_chocban	336	26	42.4	6.4	#balenie400g
+
+pepsi	28.7	0	7	0	#100ml
+monster_rio	31	0	7.7	0	#100ml
+monster_monarch	44.2	0	11	0	#100ml
+monster_mango	48.5	0	12	0	#100ml
+redbull	46.6	0	11	0	#100ml
+
+portske	160	0.2	13.7	0	#100ml
+vino_cervene	73.8	0.3	0.4	0	#100ml
+vino_biele	62.8	0.1	0.4	0	#100ml
+pivo	42.5	0.5	5.1	0	#100ml
+
+isostar	45.6	0	10.56	0	#tableta12g
+isodrinx	132	0	31.5	0	#porcia35g
+
+vlocky	400	13.14	68.09	6.87	#100g
+med	49.9	0.04	12.25	0.01	#lyžička15g
+dzus_pomaranc	44.7	0.6	10	0	#100ml
+dzus_jablko	43	0	11	0	#100ml
+anglicka_kaiserka	229	10.32	30.1	7.05	#kus86g
+donut_jahoda	213	2.1	27.45	10.45	#kus50g
+donut_oreo	334	3.57	36.12	19.25	#kus70g
+
+
+cukrovinky	37.7	0.27	8.3	0.27	#kus10g
+skittles	5.2	0	1.16	0.05	#kus1.3g
+lentilky	7.2	0.06	1.12	0.27	#kus1.5g
+cokolada_horka	56	0.84	3.38	4.15	#kocka10g
+cokolada_mliecna	56.4	0.87	5.35	3.5	#kocka10g
+chipsy	159	1.11	16.5	9.6	#porcia30g
+
+
+banan	84.6	1.08	19.8	0.18	#kus90g
+jablko	110	0.6	25.5	0	#kus150g
+kiwi	35.3	0.5	6.93	0.31	#kus50g
+pomaranc	74.5	1.38	16.56	0.33	#kus150g
+
+salama_kmotr	523	22	1	48	#100g
+salama_nitran	467	23.11	0.2	41.54	#100g
+pickle	15.2	0.2	3.25	0.05	#kus50g
+slanina	298	15.1	0.5	26.5	#100g
+
+active_tvaroh	120	15	11	1.7	#100g(čokoláda)
+rajo_tvaroh	151	14	16	1.5	#100g(ochutený)
+fresh_tvaroh	97.9	17	4.5	1.2	#100g(nízkotučný_neochutený)
+granko	19.4	0.22	4.05	0.16	#lyžička5g
+
+polievka_brokolicova	40.8	2	3.2	2	#100ml
+polievka_masova	64.6	3.82	5.36	3.1	#100ml_gulasova
+kuracie_prirodne	172	30	0.5	5.6	#varené(100g)jedáleň
+hranolky	252	3.6	37	10	#100g
+zelenina	66	1.2	4.7	4.4	#100g(anglická_v_jedálni)
+
+kfc_strips	91.8	6.72	3.2	6.08	#kus32g
+kfc_wings	115	7.2	5.04	7.56	#kus36g
+kfc_original	300	22.2	9.32	19.98	#kus110g
+kfc_burger	327	16.25	32.5	15	#kus125g
+pizza	1977	77	175	105	#kus700g
+pizza_tv	2825	110	250	150	#kus1kg
